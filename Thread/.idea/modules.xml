@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Javalock/Javalock.iml" filepath="$PROJECT_DIR$/Javalock/Javalock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basics/basics.iml" filepath="$PROJECT_DIR$/basics/basics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/countdownLatch/countdownLatch.iml" filepath="$PROJECT_DIR$/countdownLatch/countdownLatch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/create/create.iml" filepath="$PROJECT_DIR$/create/create.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deadlock/deadlock.iml" filepath="$PROJECT_DIR$/deadlock/deadlock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hema_concurrent/hema_concurrent.iml" filepath="$PROJECT_DIR$/hema_concurrent/hema_concurrent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/list/list.iml" filepath="$PROJECT_DIR$/list/list.iml" />
+    </modules>
+  </component>
+</project>
